@@ -1,6 +1,6 @@
 Steps to launch the project
 
-1.Just run xampp-win32-5.6.21-0-VC11-installer.exe
+1.Just Install xampp-win32-5.6.21-0-VC11-installer.exe
 2. Copy the 'project' folder in 'xampp/htdocs' folder, in the xampp installation directory.
 3. Run 'apache' server and 'mysql' server from 'xampp-controller.exe'
 4. Open 'http://localhost/phpmyadmin/' in a browser and click on 'Import' tab at the top of page.
